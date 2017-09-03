@@ -1,4 +1,4 @@
-package ch01.sec07;
+package ru.mephi.java.ch01.sec07;
 
 public class LabeledBreakContinue {
   public static void main(String[] args) {

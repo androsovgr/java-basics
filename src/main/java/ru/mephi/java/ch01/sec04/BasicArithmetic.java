@@ -1,4 +1,4 @@
-package ch01.sec04;
+package ru.mephi.java.ch01.sec04;
 
 public class BasicArithmetic {
   public static void main(String[] args) {

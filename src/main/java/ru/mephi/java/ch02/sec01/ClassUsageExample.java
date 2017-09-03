@@ -1,4 +1,4 @@
-package ch02.sec01;
+package ru.mephi.java.ch02.sec01;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

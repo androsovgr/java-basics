@@ -1,4 +1,4 @@
-package ch02.sec03;
+package ru.mephi.java.ch02.sec03;
 
 public class AnotherConstructorFeature {
   private static class Employee {

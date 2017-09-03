@@ -1,4 +1,4 @@
-package ch01.sec05;
+package ru.mephi.java.ch01.sec05;
 
 import java.util.Arrays;
 

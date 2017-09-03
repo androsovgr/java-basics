@@ -1,4 +1,4 @@
-package ch01.sec01;
+package ru.mephi.java.ch01.sec01;
 
 //Our first Java program
 

@@ -1,4 +1,4 @@
-package ch01.sec08;
+package ru.mephi.java.ch01.sec08;
 
 import java.util.ArrayList;
 import java.util.Arrays;

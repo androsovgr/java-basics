@@ -1,4 +1,4 @@
-package ch01.sec06;
+package ru.mephi.java.ch01.sec06;
 
 public class FormattedOutput {
   public static void main(String[] args) {

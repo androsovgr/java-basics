@@ -1,4 +1,4 @@
-package ch01.sec08;
+package ru.mephi.java.ch01.sec08;
 
 public class ClArguments {
 public static void main(String[] args) {

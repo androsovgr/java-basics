@@ -1,4 +1,4 @@
-package ch01.sec03;
+package ru.mephi.java.ch01.sec03;
 
 public class VariableNames {
   public static void main(String[] args) {

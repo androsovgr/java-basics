@@ -1,4 +1,4 @@
-package ch01.sec03;
+package ru.mephi.java.ch01.sec03;
 
 public class Constants {
   public static final int STATIC_CONSTANT = 1;

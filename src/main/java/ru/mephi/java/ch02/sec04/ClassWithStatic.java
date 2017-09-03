@@ -1,4 +1,4 @@
-package ch02.sec04;
+package ru.mephi.java.ch02.sec04;
 
 public class ClassWithStatic {
 

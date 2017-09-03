@@ -1,4 +1,4 @@
-package ch01.sec09;
+package ru.mephi.java.ch01.sec09;
 
 public class FuncDecomposition {
   public static void main(String[] args) {

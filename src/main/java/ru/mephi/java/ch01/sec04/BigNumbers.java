@@ -1,4 +1,4 @@
-package ch01.sec04;
+package ru.mephi.java.ch01.sec04;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

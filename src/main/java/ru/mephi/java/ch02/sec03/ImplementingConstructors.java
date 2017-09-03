@@ -1,8 +1,8 @@
-package ch02.sec03;
+package ru.mephi.java.ch02.sec03;
 
 import java.util.ArrayList;
 
-import ch02.sec02.Employee;
+import ru.mephi.java.ch02.sec02.Employee;
 
 public class ImplementingConstructors {
   public static void main(String[] args) {

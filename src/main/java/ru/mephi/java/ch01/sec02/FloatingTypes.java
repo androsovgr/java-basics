@@ -1,4 +1,4 @@
-package ch01.sec02;
+package ru.mephi.java.ch01.sec02;
 
 public class FloatingTypes {
   public static void main(String[] args) {

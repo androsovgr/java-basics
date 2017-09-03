@@ -1,4 +1,4 @@
-package ch02.sec03;
+package ru.mephi.java.ch02.sec03;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ch02.sec02;
+package ru.mephi.java.ch02.sec02;
 
 public class CallByValue {
   public static void main(String[] args) {
