@@ -1,0 +1,1 @@
+javadoc -d target\javadoc -sourcepath src\main\java -author ru.mephi.java.ch02.sec07
